@@ -1,5 +1,5 @@
 <?
-	include 'googl.url.class.php';
+	include 'gg.class/googl.url.class.php';
 
 
 	$gl = new GooglCl(array(
