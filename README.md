@@ -7,6 +7,7 @@ PHP , Goo.gl 단축 주소
 
 	
 ! required PHP 5.x Higher
+
 ! required curl enable
 
 > 바로 사용하기
