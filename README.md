@@ -3,7 +3,7 @@
 
 PHP , Goo.gl 단축 주소 
 
-문서 작성중...
+-17년 5월 정상작동 확인.
 
 	
 ! required PHP 5.x Higher
